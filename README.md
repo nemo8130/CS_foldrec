@@ -1,6 +1,9 @@
 # CS_foldrec
 
 Requires PERL (v.5.8 or higher)
+All Library files should be kept in the current folder or as specified as in the path(s) for each file.
+For the latter one has to edit the code accordingly. 
+shape and electrostatic complementarity profile for buried residues should also be precomputed and present as inputs (XXXX.Sm, XXXX.Em) in the current directory and provided as two successive commandline arguments (arg-1, arg-2).
 
 - FOLD RECOGNITION :: COMPLEMENTARITY SCORE
 - CS_gl, CS_cp 
